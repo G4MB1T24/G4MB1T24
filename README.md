@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gambit</h1>
 <h3 align="center">I like to make things ;)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=g4mb1t24&label=Profile%20views&color=0e75b6&style=flat" alt="g4mb1t24" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=g4mb1t24&label=Profile%6959views&color=0e75b6&style=flat" alt="g4mb1t24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g4mb1t24" alt="g4mb1t24" /></a> </p>
 
