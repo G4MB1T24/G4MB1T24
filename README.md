@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=g4mb1t24" alt="g4mb1t24" /></a> </p>
 
-- 🔭 I’m currently working on **A django project (priv)**
+- 🔭 I’m currently working on **A django project (priv) **
 
-- 🌱 I’m currently learning **Python, Django , Tailwind**
+- 🌱 I’m currently learning **Python, Django , Tailwind , ReactJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
