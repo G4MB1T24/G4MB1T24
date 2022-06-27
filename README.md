@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Gambit</h1>
-<h3 align="center">I like to make things ;)</h3>
+<h3 align="center">Wanna be python and web dev </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g4mb1t24&label=Profile%20views&color=0e75b6&style=flat" alt="g4mb1t24" /> </p>
 
